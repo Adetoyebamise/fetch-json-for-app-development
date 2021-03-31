@@ -16,7 +16,7 @@ window.addEventListener('load', async () => {
   
   basketballPlayersData.forEach(basketball => 
     contentDiv.innerHTML += `
-    <h2>${basketball.first_name}<h2>
+    <h2>${basketball.first_name}</h2>
     <p>${basketball.last_name}</P>
     `
 )
