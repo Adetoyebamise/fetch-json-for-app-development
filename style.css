@@ -1,6 +1,22 @@
 h1  {
-  margin: 30px;
   text-align: center;
   text-decoration: solid;
-  background-color: aqua;
+  background-color:transparent;
+  padding:4px 4px 4px 4px;
+} 
+
+body {
+  background-color: rgb(206, 206, 221);
+}
+
+
+
+button img {
+  width: 20px;
+}
+
+section{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
 }
