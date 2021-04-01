@@ -37,6 +37,4 @@
     <h3>city: ${teamCity}</h3>
     <h3>height in feet: ${playerHeight}</h3>
     `
-  })
- 
-  
+  }) 
